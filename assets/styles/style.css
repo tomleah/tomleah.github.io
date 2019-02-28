@@ -22,7 +22,11 @@ body {
 }
 
 #landing h1 {
-    font-size: 4em;
+    font-size: 8em;
+}
+
+#landing p {
+    font-size: 2em;
 }
 
 .vertical-center {
